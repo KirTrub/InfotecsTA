@@ -24,13 +24,11 @@ Go >= 1.24.6
 PostgreSQL >= 17.5
 
 # Сборка и запуск
-* Сборка
 ```bash
 git clone https://github.com/KirTrub/InfotecsTA.git
 
 cd InfotecsTA
 ```
-* Запуск
 
 **Перед запуском необходимо создать файл .env в корне проекта и в нем прописать DB_URL=[url вашей БД, без ковычек, скобок и пробелов]***
 ```bash
