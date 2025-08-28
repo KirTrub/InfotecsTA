@@ -102,4 +102,4 @@ Failed to send money: insufficient funds
 # Используемый стек
 * Golang 1.24.6
 * Fiber 2.52.9
-* PostgreSQL
+* PostgreSQL 17.5
