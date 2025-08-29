@@ -1,10 +1,10 @@
 package main
 
 import (
-	"InfotecsTZ/internal/api"
-	"InfotecsTZ/internal/db"
-	"InfotecsTZ/internal/repo"
-	"InfotecsTZ/internal/seed"
+	"InfotecsTA/internal/api"
+	"InfotecsTA/internal/db"
+	"InfotecsTA/internal/repo"
+	"InfotecsTA/internal/seed"
 	"log"
 	"os"
 

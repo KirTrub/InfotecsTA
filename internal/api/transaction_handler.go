@@ -2,8 +2,8 @@
 package api
 
 import (
-	"InfotecsTZ/internal/models"
-	"InfotecsTZ/internal/repo"
+	"InfotecsTA/internal/models"
+	"InfotecsTA/internal/repo"
 	"database/sql"
 	"strconv"
 

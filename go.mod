@@ -1,4 +1,4 @@
-module InfotecsTZ
+module InfotecsTA
 
 go 1.24.6
 

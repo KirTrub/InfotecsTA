@@ -2,7 +2,7 @@
 package repo
 
 import (
-	"InfotecsTZ/internal/models"
+	"InfotecsTA/internal/models"
 	"database/sql"
 	"errors"
 )
